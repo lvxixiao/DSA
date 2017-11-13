@@ -1,0 +1,5 @@
+package util;
+
+public enum EType {
+	UNDETERMINED,TREE,CROSS,FORWARD,BACKWARD, UNDETERMINE;
+}
